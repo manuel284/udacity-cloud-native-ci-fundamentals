@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: tonniski/python-helloworld:latest
+          tags: tonninski/python-helloworld:latest
